@@ -32,7 +32,7 @@ UsdBalance = 105.1M
 How to use the project:
 You can use any of those users to test.
 
-There are 3 endpoints in the project
+There are 3 endpoints in the project. You can use this postman collection to do this easily: https://www.getpostman.com/collections/f0575b75f721840d434f
 
 POST: https://localhost:44345/api/user
 
